@@ -1,7 +1,7 @@
 module spu(
 input  clk,
 input  rst,
-
+hello
 input  start,                  // to start the processor
 output stop,                   // to show that the processor is stopped
 
